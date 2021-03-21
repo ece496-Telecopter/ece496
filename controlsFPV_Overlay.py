@@ -267,7 +267,6 @@ def main():
         z_start = position.z_val
         increment = rotate
 
-        get_gaze()
         x = GazeData.GazeX
         y = GazeData.GazeY
 
